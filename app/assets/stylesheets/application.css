@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+.callout.left{
+  background-color: beige;
+  border-radius: auto;
+  box-shadow: 10px;
+  padding-left: 20px;
+}
+h1{
+  padding-left: 20px;
+}
